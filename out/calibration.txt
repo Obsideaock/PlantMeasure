@@ -1,0 +1,4 @@
+tick_px: 88.0
+periodicity_score: 0.02221597358584404
+roi_shape: (141, 846, 3)
+n_peaks: 7
